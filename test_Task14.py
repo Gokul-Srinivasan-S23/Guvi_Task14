@@ -8,8 +8,8 @@ from Pages.loginPage_POM import LoginPage
 from Pages.dashboardPage_POM import DashboardPage
 
 
-valid_Username = "gokulsrini231295@gmail.com"
-valid_password = "Yaanuu23*"
+valid_Username = ""
+valid_password = ""
 invalid_Username = "JUIOOP@gmail.com"
 invalid_password = "HJUIoaas"
 
